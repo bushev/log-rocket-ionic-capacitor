@@ -1,0 +1,7 @@
+{
+  "name": "lrApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
